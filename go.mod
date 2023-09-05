@@ -1,3 +1,3 @@
-module src.v7n.dev/v7n/parsley
+module github.com/aksial/parsley
 
-go 1.19
+go 1.21
